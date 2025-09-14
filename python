@@ -1,2 +1,10 @@
+#Создание списка
+
 list=['volleyball', 'football','basketball','soccer','skiing']
 list.append('skating')
+
+#Создание стека (через список)
+
+stack=[]
+stack=append.(1)
+stack=append.(2)
